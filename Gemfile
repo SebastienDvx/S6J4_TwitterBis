@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 #gem 'pundit'
 
 gem 'twitter'
-gem 'dotenv-rails'
+gem 'dotenv'
 gem 'rails'
 gem 'puma'
 gem 'sass-rails'
